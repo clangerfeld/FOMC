@@ -8,7 +8,7 @@ require(readr)
 require(quanteda)
 require(stringr)
 
-setwd("~/Dropbox/FOMC/Humor_and_laughter/")
+#setwd("")
 
 ################################################################################
 # (0) Define some functions
