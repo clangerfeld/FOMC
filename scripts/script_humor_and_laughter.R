@@ -28,7 +28,7 @@ get.chair <- function(date){
   return(chair)
 }
 
-files <- list.files("data/", full.names = T, pattern = "txt")
+files <- list.files("../data/", full.names = T, pattern = "txt")
 
 ################################################################################
 # (1) Create a data frame with some information about each document
